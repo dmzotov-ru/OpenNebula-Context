@@ -1,6 +1,3 @@
-
-
-
 $swap_disk_number = 1
 $swap_disk_letter = "S"
 # This is the decimal representation of the S drive (swap) to pass to the registry setting
